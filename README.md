@@ -61,13 +61,7 @@ The analysis focuses on answering the following key questions:
 
 ---
 
-## 🛠️ Tech Stack
 
-- Python  
-- Pandas  
-- Matplotlib  
-- Seaborn  
-- Jupyter Notebook / VS Code  
 - Git & GitHub  
 
 ---
