@@ -62,8 +62,4 @@ The analysis focuses on answering the following key questions:
 ---
 
 
-- Git & GitHub  
-
----
-
 
