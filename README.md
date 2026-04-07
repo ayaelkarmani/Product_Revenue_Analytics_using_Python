@@ -46,20 +46,17 @@ The analysis focuses on answering the following key questions:
 
 ---
 
-## 📈 Results Summary
-
-- Premium product tiers (**Elite** and **Expensive**) generate the highest revenue.
-- Adidas outperforms Nike across all pricing categories.
-- Product description length significantly impacts both **ratings and engagement**.
-- Revenue performance varies across product lines and time, highlighting opportunities for **data-driven decision-making**.
-
----
-
 ## 📊 Dashboard Overview
 
 ![Dashboard Overview](dashboard.png)
 
 ---
 
+## 📈 Results Summary
 
+- Premium product tiers (**Elite** and **Expensive**) generate the highest revenue.
+- Adidas outperforms Nike across all pricing categories.
+- Product description length significantly impacts both **ratings and engagement**.
+
+---
 
